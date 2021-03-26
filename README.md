@@ -4,4 +4,14 @@ Goal – A demo project of the vehicle simulation is made in CARLA simulator. Th
 To Run the API files Requirements 
 
 Carla - https://github.com/carla-simulator/carla
+
 Installation  - https://carla.readthedocs.io/en/latest/start_quickstart/ 
+
+Python Lib - numpy; python_version < '3.0'
+numpy==1.18.4; python_version >= '3.0'
+pygame
+matplotlib
+open3d
+Pillow
+argparse
+math 
