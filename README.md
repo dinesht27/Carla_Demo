@@ -1,5 +1,5 @@
 # Carla_Demo
-Goal – A demo project of the vehicle simulation is made in CARLA simulator. This demo trial is intended for the display of my interest toward the work opportunity at AVL Software and Functions GmbH in the field of vehicle and traffic simulation.
+Goal – A demo project of the vehicle simulation is made in CARLA simulator. This demo trial is intended for the display of my interest in the field of vehicle and traffic simulation.
 
 The Python API folder contains the python script to run Part1 and Part 2 of the project 
 The PDF Demo Project_Carla Simulator provides the quick summary on the work.
